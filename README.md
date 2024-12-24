@@ -1,4 +1,7 @@
-# Speaker Identification
+# Speaker Identification Using CNN-LSTM Model on RAVDESS Dataset: A Deep Learning Approach
+# View paper
+https://ieeexplore.ieee.org/abstract/document/10626802?casa_token=hFOvPOdJYQwAAAAA:puMXHSKTb64_73SN4mXrZwijcIinsusChWXWZCFvApBoPUNHbbqsAWSExexDLcysCeie8q03iUo
+
 Multiple models such as GMM, CNN, SVM were compared and CNN+LSTM outperformed with a greater accuracy. The above models were evaluated on the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset. The results highlight their potential for practical applications within speaker identification systems.
 
 ### Proposed Methodology
